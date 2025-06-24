@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Dhruv Sharma, a final year B.Tech (CSE) student with a keen interest in Machine Learning and Deep Learning. I've built a solid foundation in computer science and am excited by the potential of AI to solve real-world problems. I'm hands-on with various projects and always eager to learn more and contribute to innovative AI solutions.
+I'm Dhruv Sharma, software engineer with a keen interest in Machine Learning and Deep Learning. I've built a solid foundation in computer science and am excited by the potential of AI to solve real-world problems. I'm hands-on with various projects and always eager to learn more and contribute to innovative AI solutions.
 
 
 ## 🌐 Socials:
